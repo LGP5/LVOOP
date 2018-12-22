@@ -77,6 +77,7 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 			<Item Name="Board Type Enum.ctl" Type="VI" URL="../Common/Board Type Enum.ctl"/>
 			<Item Name="Assembly Line Input.ctl" Type="VI" URL="../Common/Assembly Line Input.ctl"/>
 			<Item Name="Pass Fail Boolean.ctl" Type="VI" URL="../Common/Pass Fail Boolean.ctl"/>
+			<Item Name="Assembly Line Input.lvclass" Type="LVClass" URL="../Classes/Assembly Line Input_class/Assembly Line Input.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
