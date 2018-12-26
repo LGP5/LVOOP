@@ -68,7 +68,7 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Generate Test Images.vi" Type="VI" URL="../../../Common/Generate Test Images.vi">
+	<Item Name="Generate Test Images.vi" Type="VI" URL="../Generate Test Images.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#\!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!/E"Q!"Y!!"U&lt;18.T:7VC&lt;(EA4'FO:3"*&lt;H"V&gt;#ZM&gt;G.M98.T!"."=X.F&lt;7*M?3"-;7ZF)%FO=(6U!"2!=!!3!!%!"!FR&gt;76V:3"P&gt;81!"!!!!#1!]!!%!!-!"1!'!!9$!!!I!!!*!!!!#1!!!!!!!!!!!!!!!!%!"Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -77,7 +77,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 	</Item>
-	<Item Name="Image Generator.vi" Type="VI" URL="../../../Common/Image Generator.vi">
+	<Item Name="Image Generator.vi" Type="VI" URL="../Image Generator.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$[!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!&gt;'U&amp;T=W6N9GRZ)%RJ&lt;G5A37ZQ&gt;81O&lt;(:D&lt;'&amp;T=Q!418.T:7VC&lt;(EA4'FO:3"*&lt;H"V&gt;!!01!-!#'BP&gt;S"N97ZZ!!!51(!!%A!"!!5)586F&gt;75A;7Y!!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!%!!5!"A!(!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!")!!!!1!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
@@ -86,7 +86,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
-	<Item Name="Get Test Image.vi" Type="VI" URL="../../../Common/Get Test Image.vi">
+	<Item Name="Get Test Image.vi" Type="VI" URL="../Get Test Image.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!"1!A1#%;&lt;G]A&lt;7^S:3"J&lt;7&amp;H:8-A97:U:8)A&gt;'BJ=T]!!$J!=!!?!!!&gt;'U&amp;T=W6N9GRZ)%RJ&lt;G5A37ZQ&gt;81O&lt;(:D&lt;'&amp;T=Q!418.T:7VC&lt;(EA4'FO:3"*&lt;H"V&gt;!!%!!!!&amp;%"Q!")!!1!"#(&amp;V:86F)'FO!!!E!0!!"!!!!!%!!A!$!Q!!+!!!#1!!!!E!!!!!!!!!%!!!!!!"!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -95,7 +95,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 	</Item>
-	<Item Name="Point to Distance on Board.vi" Type="VI" URL="../../../Common/Point to Distance on Board.vi">
+	<Item Name="Point to Distance on Board.vi" Type="VI" URL="../Point to Distance on Board.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"U!!!!"1!01!)!#76O:#"Q;8BF&lt;!!21!)!#X.U98*U)("J?'6M!"6!!A!/5WF[:3"P:C"T=86B=G5!!".!!A!-=W.B&lt;'6E)(:B&lt;(6F!!!E!0!!"!!!!!%!!A!$!A!!+!!!$1-!!!E!!!!1!!!!%A!!!!!"!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
@@ -104,7 +104,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="Generate Broken Board.vi" Type="VI" URL="../../../Common/Generate Broken Board.vi">
+	<Item Name="Generate Broken Board.vi" Type="VI" URL="../Generate Broken Board.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#@!!!!!Q!_1(!!(A!!(2N"=X.F&lt;7*M?3"-;7ZF)%FO=(6U,GRW9WRB=X-!&amp;U&amp;T=W6N9GRZ)%RJ&lt;G5A37ZQ&gt;81A&lt;X6U!$Z!=!!?!!!&gt;'U&amp;T=W6N9GRZ)%RJ&lt;G5A37ZQ&gt;81O&lt;(:D&lt;'&amp;T=Q!718.T:7VC&lt;(EA4'FO:3"*&lt;H"V&gt;#"J&lt;A!!'Q$Q!!)!!!!"!Q!!#!!!$1%!!")!!!-#!!!!!1!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
