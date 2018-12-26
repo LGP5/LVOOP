@@ -73,6 +73,11 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 		</Item>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Assembly Line Input.lvclass" Type="LVClass" URL="../Classes/Assembly Line Input_class/Assembly Line Input.lvclass"/>
+			<Item Name="Board Design.lvclass" Type="LVClass" URL="../Classes/Board Design_class/Board Design.lvclass"/>
+			<Item Name="GPIB Board Design.lvclass" Type="LVClass" URL="../Classes/GPIB Board Design_class/GPIB Board Design.lvclass"/>
+			<Item Name="DAQ Board Design.lvclass" Type="LVClass" URL="../Classes/DAQ Board Design_class/DAQ Board Design.lvclass"/>
+			<Item Name="Elite DAQ Design.lvclass" Type="LVClass" URL="../Classes/Elite DAQ Design_class/Elite DAQ Design.lvclass"/>
+			<Item Name="Basic DAQ Design.lvclass" Type="LVClass" URL="../Classes/Basic DAQ Design_class/Basic DAQ Design.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
