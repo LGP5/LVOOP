@@ -64,11 +64,7 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 			<Item Name="Test Boards_TASK.vi" Type="VI" URL="../Task Design/Test Boards_TASK.vi"/>
 		</Item>
 		<Item Name="Common Components" Type="Folder">
-			<Item Name="Generate Test Cases" Type="Folder">
-				<Item Name="Point to Distance on Board.vi" Type="VI" URL="../Common/Point to Distance on Board.vi"/>
-				<Item Name="Generate Broken Board.vi" Type="VI" URL="../Common/Generate Broken Board.vi"/>
-				<Item Name="Get Test Image.vi" Type="VI" URL="../Common/Get Test Image.vi"/>
-			</Item>
+			<Item Name="Generate Test Cases" Type="Folder"/>
 			<Item Name="Test For Square of Color.vi" Type="VI" URL="../Common/Test For Square of Color.vi"/>
 			<Item Name="Get ID Number.vi" Type="VI" URL="../Common/Get ID Number.vi"/>
 			<Item Name="Board Image.ctl" Type="VI" URL="../Common/Board Image.ctl"/>
