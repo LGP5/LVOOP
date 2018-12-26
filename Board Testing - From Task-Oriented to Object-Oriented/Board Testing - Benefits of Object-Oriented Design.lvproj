@@ -53,20 +53,7 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Task-Oriented Solution" Type="Folder">
-			<Item Name="SubVIs" Type="Folder">
-				<Item Name="Test A.vi" Type="VI" URL="../Task Design/Test A.vi"/>
-				<Item Name="Test B.vi" Type="VI" URL="../Task Design/Test B.vi"/>
-				<Item Name="Test C.vi" Type="VI" URL="../Task Design/Test C.vi"/>
-				<Item Name="Test_Common To All Boards.vi" Type="VI" URL="../Task Design/Test_Common To All Boards.vi"/>
-				<Item Name="Get Test Name.vi" Type="VI" URL="../Task Design/Get Test Name.vi"/>
-			</Item>
-			<Item Name="Test Boards_TASK.vi" Type="VI" URL="../Task Design/Test Boards_TASK.vi"/>
-		</Item>
 		<Item Name="Common Components" Type="Folder">
-			<Item Name="Generate Test Cases" Type="Folder"/>
-			<Item Name="Test For Square of Color.vi" Type="VI" URL="../Common/Test For Square of Color.vi"/>
-			<Item Name="Get ID Number.vi" Type="VI" URL="../Common/Get ID Number.vi"/>
 			<Item Name="Board Image.ctl" Type="VI" URL="../Common/Board Image.ctl"/>
 			<Item Name="Board Type Enum.ctl" Type="VI" URL="../Common/Board Type Enum.ctl"/>
 			<Item Name="Pass Fail Boolean.ctl" Type="VI" URL="../Common/Pass Fail Boolean.ctl"/>
@@ -79,6 +66,7 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 			<Item Name="Elite DAQ Design.lvclass" Type="LVClass" URL="../Classes/Elite DAQ Design_class/Elite DAQ Design.lvclass"/>
 			<Item Name="Basic DAQ Design.lvclass" Type="LVClass" URL="../Classes/Basic DAQ Design_class/Basic DAQ Design.lvclass"/>
 		</Item>
+		<Item Name="Test Boards_OO.vi" Type="VI" URL="../Test Boards_OO.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
@@ -93,6 +81,7 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
