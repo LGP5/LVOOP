@@ -67,8 +67,6 @@ Refer to the LabVIEW Help for more information about LabVIEW object-oriented pro
 			<Item Name="Generate Test Cases" Type="Folder">
 				<Item Name="Point to Distance on Board.vi" Type="VI" URL="../Common/Point to Distance on Board.vi"/>
 				<Item Name="Generate Broken Board.vi" Type="VI" URL="../Common/Generate Broken Board.vi"/>
-				<Item Name="Assembly Line Image Generator.vi" Type="VI" URL="../Common/Assembly Line Image Generator.vi"/>
-				<Item Name="Generate Test Images.vi" Type="VI" URL="../Common/Generate Test Images.vi"/>
 				<Item Name="Get Test Image.vi" Type="VI" URL="../Common/Get Test Image.vi"/>
 			</Item>
 			<Item Name="Test For Square of Color.vi" Type="VI" URL="../Common/Test For Square of Color.vi"/>
