@@ -1,2 +1,2 @@
 # LVOOP
-Code for the Object-Oriented section of the book 
+Code for chapter 4 of the book LabVIEW Graphical Programming, Fifth Edition 
